@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iyedzarrougui14" alt="iyedzarrougui14" /></a> </p>
 
-- 🌱 I’m currently learning **Java** **R**
+- 🌱 I’m currently learning **Java** , **R**
 
 - 📫 How to reach me **iyedzarrou14@gmail.com**
 
