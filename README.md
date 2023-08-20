@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Iyed Zarrougui</h1>
 <h3 align="center">Web Developper</h3>
+<p align="center"> 👋 Hello there, I'm Iyed Zarrougui! 🚀
 
+🎓 Computer Science student at the Faculty of Sciences, Gafsa.
+📚 Major of my promotion for two amazing years.
+💻 Passionate about coding and exploring new technologies.
+☁️ Fascinated by the world of cloud computing.
+
+🌟 Always eager to learn and innovate.
+🔍 Exploring the intersections of logic and creativity.
+🎮 Gamer by night, coder by day.
+🌍 Dreaming of shaping a better digital future.
+
+Connect with me and let's share our coding journeys! 🤝 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iyedzarrougui14&label=Profile%20views&color=0e75b6&style=flat" alt="iyedzarrougui14" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iyedzarrougui14" alt="iyedzarrougui14" /></a> </p>
