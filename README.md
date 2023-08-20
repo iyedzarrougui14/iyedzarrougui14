@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Iyed Zarrougui</h1>
 <h3 align="center">Web Developper</h3>
-<p align="center"> 👋 Hello there, I'm Iyed Zarrougui! 🚀
-
-🎓 Computer Science student at the Faculty of Sciences, Gafsa.
-📚 Major of my promotion for two amazing years.
-💻 Passionate about coding and exploring new technologies.
-☁️ Fascinated by the world of cloud computing.
-
-🌟 Always eager to learn and innovate.
-🔍 Exploring the intersections of logic and creativity.
-🎮 Gamer by night, coder by day.
-🌍 Dreaming of shaping a better digital future.
-
+<p align="center"> 👋 Hello there, I'm Iyed Zarrougui! 🚀<br>
+🎓 Computer Science student at the Faculty of Sciences, Gafsa.<br>
+📚 Major of my promotion for two amazing years.<br>
+💻 Passionate about coding and exploring new technologies.<br>
+☁️ Fascinated by the world of cloud computing.<br>
+🌟 Always eager to learn and innovate.<br>
+🔍 Exploring the intersections of logic and creativity.<br>
+🎮 Gamer by night, coder by day.<br>
+🌍 Dreaming of shaping a better digital future.<br>
 Connect with me and let's share our coding journeys! 🤝 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iyedzarrougui14&label=Profile%20views&color=0e75b6&style=flat" alt="iyedzarrougui14" /> </p>
 
