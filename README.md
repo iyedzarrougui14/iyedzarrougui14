@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student</h3>
 <p align="center"> 👋 Hello there, I'm Iyed Zarrougui! 🚀<br>
 🎓 Computer Science Student at the Faculty of Sciences, Gafsa.<br>
-📚 Major of my promotion for two amazing years.<br>
+📚 Major of my promotion for three amazing years.<br>
 💻 Passionate about coding and exploring new technologies.<br>
 ☁️ Fascinated by the world of cloud computing.<br>
 🌟 Always eager to learn and innovate.<br>
