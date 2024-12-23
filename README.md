@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Iyed Zarrougui</h1>
 <h3 align="center">Computer Science Student</h3>
 <p align="center"> 👋 Hello there, I'm Iyed Zarrougui! 🚀<br>
-🎓 Computer Science Student at the Faculty of Sciences, Gafsa.<br>
+🎓 Computer Engineer Student at the Higher Institute of Computer Science and Multimedia, Sakiet Ezzit, Sfax<br>
 📚 Major of my promotion for three amazing years.<br>
 💻 Passionate about coding and exploring new technologies.<br>
-☁️ Fascinated by the world of cloud computing.<br>
+☁️ Fascinated by the world of cloud computing and python.<br>
 🌟 Always eager to learn and innovate.<br>
 🔍 Exploring the intersections of logic and creativity.<br>
 🤖 Coder by night, innovator by day.<br>
@@ -14,7 +14,7 @@ Connect with me and let's share our coding journeys! 🤝 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iyedzarrougui14" alt="iyedzarrougui14" /></a> </p>
 
-- 🌱 I’m currently learning **Java** , **R** , **.net** , **C#**
+- 🌱 I’m currently learning **Docker** , **Kubernetes** , **GCP**
 - 📫 How to reach me **iyedzarrou14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
