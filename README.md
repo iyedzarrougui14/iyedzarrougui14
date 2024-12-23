@@ -19,7 +19,7 @@ Connect with me and let's share our coding journeys! 🤝 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/iyed-zarrougui-16711b240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iyed-zarrougui-16711b240/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/iyed-zarrougui-16711b240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iyed-zarrougui" height="30" width="40" /></a>
 <a href="https://fb.com/zarrougui.iyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zarrougui.iyed" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/iyedzarrougui14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iyedzarrougui14" height="30" width="40" /></a>
 </p>
