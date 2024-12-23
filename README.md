@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iyed Zarrougui</h1>
-<h3 align="center">Computer Science Student</h3>
+<h3 align="center">Computer Engineer Student</h3>
 <p align="center"> 👋 Hello there, I'm Iyed Zarrougui! 🚀<br>
 🎓 Computer Engineer Student at the Higher Institute of Computer Science and Multimedia, Sakiet Ezzit, Sfax<br>
 📚 Major of my promotion for three amazing years.<br>
