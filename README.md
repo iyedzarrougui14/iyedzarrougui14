@@ -26,4 +26,4 @@ Connect with me and let's share our coding journeys! 🤝 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iyedzarrougui14&show_icons=true&locale=en" alt="iyedzarrougui14" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iyedzarrougui14&" alt="iyedzarrougui14" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iyedzarrougui14&" alt="iyedzarrougui14" /></p>-->
